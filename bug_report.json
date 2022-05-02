@@ -1,1 +1,14 @@
-
+"ID":1,
+"Project":"esculab.com",
+"Summary":"The text colour of the 'Get result' button merges with the background colour of the button when the cursor is hovered over the service page",
+"Actual result":"The text colour of the 'Get result' button merges with the background colour of the button when the cursor is hovered over the service page",
+"Expected result":"The colour of the 'Get result' button text becomes white when the cursor is hovered over the service page",
+"Pre-conditions":"Open the service page. Example https://...",
+"Steps to reproduce":"Place the cursor on the 'Get result' button",
+"Environment":"macOS BigSur v:11.2.3 Google Chrome v:94.0.4606.71 (x86_64)",
+"Severity":"Trivial",
+"Priority":"Low",
+"Status":"Submitted",
+"Attachments":"Video link",
+"Workaround":"No", 
+"Reproducibility":"Always"
