@@ -27,10 +27,10 @@ i
 	"surname":"Smith",
 	"age":27,
 	"pets":{
-					"number":1,
-					"kind_of_pet":"cat",
-					"name":"Klaus"
-					},
+		"number":1,
+		"kind_of_pet":"cat",
+		"name":"Klaus"
+		},
 	"desired_salary":"10000$"
 }
 esc
