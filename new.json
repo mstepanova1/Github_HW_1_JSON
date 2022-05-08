@@ -1,5 +1,11 @@
+{
 "name":"John",
 "surname":"Smith",
 "age":27,
-"number_of_pets":1,
-"desired_salary":10000
+"pets":{
+		    "number":1,
+		    "kind_of_pet":"cat",
+		    "name":"Klaus"
+		    },
+"desired_salary":"10000$"
+}
